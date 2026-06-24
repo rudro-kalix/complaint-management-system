@@ -96,23 +96,14 @@ This system provides a structured and efficient way for students to submit compl
 * Meeting Notes
 * Team Roles & Responsibilities
 
+## 🔗 Project Links
 
-
-## 🔗 Project Tools
-
-### 📋 Trello Board
-https://trello.com/invite/b/6a341d9233e4d3d7fa89f956/ATTIb4d7e294f0b28ab0e7cf1f9dd0d06fc6AC118DB6/resolvex-🛠️
-
-### 💬 Slack Workspace
-https://join.slack.com/t/resolvex-workspace/shared_invite/zt-41bggwdj7-Vwvc8blz7MfIebI5vNoscg
-
-### 💻 GitHub Repository
-https://github.com/rudro-kalix/complaint-management-system
-
-### 📚 Confluence Documentation
-https://resolvex252.atlassian.net/wiki/x/YIAO
-
-
+| Tool | Link |
+|------|------|
+| 📋 Trello Board | [Open Trello Board](https://trello.com/invite/b/6a341d9233e4d3d7fa89f956/ATTIb4d7e294f0b28ab0e7cf1f9dd0d06fc6AC118DB6/resolvex-🛠️) |
+| 💬 Slack Workspace | [Join Slack Workspace](https://join.slack.com/t/resolvex-workspace/shared_invite/zt-41bggwdj7-Vwvc8blz7MfIebI5vNoscg) |
+| 💻 GitHub Repository | [View Repository](https://github.com/rudro-kalix/complaint-management-system) |
+| 📚 Confluence Documentation | [Open Documentation](https://resolvex252.atlassian.net/wiki/x/YIAO) |
 
 
 ## 🧩 Technologies Used
